@@ -1,0 +1,112 @@
+*   {
+    margin: 0;
+    padding: 0;
+   
+}
+
+#main    {
+    background-color: #b7b8b6;
+}
+
+/*  Header  */
+#title  {
+    background-color: #4CB5F5;
+
+    max-width: 10000px;
+    max-height: auto;
+    padding: 0 10px;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    
+}
+
+#logo  {
+    padding-top: 8px;
+    font-family: MV Boli;
+    
+    font-size: 50px;
+    text-shadow: 0 10px 10px rgba(0,0,0,0.90);
+    text-transform: capitalize;
+    
+}
+
+
+#logo-into  {
+    font-family: monospace;
+    font-size: 18px;
+    padding: 30px 0;
+    
+}
+/* first section    */
+
+#img-div    {
+    background-color: #b7b8b6;
+    max-width: 900px;
+    max-height: auto;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+#image  {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    border-radius: 5%;
+    position: relative;
+    margin: auto;
+    
+}
+
+#img-caption    {
+    color: white;
+    font-family: arial;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 10px;
+    letter-spacing: 10px;
+}
+
+#tribute-info   {
+    background-color: #34675C;
+    max-width: 10000px;
+    max-height:inherit;
+    margin: 0   auto;
+    font-family: muliss;
+    font-size: 16px;
+    padding: 20px   35px;
+    text-align: justify;
+    
+}
+
+footer  {
+    background-color: #b3c100;
+    max-width: 10000px;
+    height: 30px;
+    margin: 0 auto;
+    padding: 5px;
+    padding-top: 10px;
+    text-align: center;
+    color: black;
+}
+
+#tribute-link {
+    color: black;
+    font-family: sans-serif;
+}
+
+a   {
+    color: black;
+    
+}
+
+h3  {
+    margin-bottom: 50px;
+}
+
+#tribute  {
+    font-family: calibri;
+    font-size: 18px;
+    line-height: 36px;
+}
+
